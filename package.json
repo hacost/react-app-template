@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Héctor Acosta <hacost@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
