@@ -1,0 +1,8 @@
+{
+    "presets": [
+        // para trabajar con emac script 5
+        "@babel/preset-env",
+        // para trabajar con react
+        "@babel/preset-react"
+    ]
+}
