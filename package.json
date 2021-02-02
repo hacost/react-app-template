@@ -1,16 +1,16 @@
 {
-  "name": "sales-cart",
+  "name": "hello-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "React app template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
-    "start": "webpack serve --mode development --env development"
+    "dev": "webpack serve --mode development --env development"
   },
   "keywords": [],
   "author": "Héctor Acosta <hacost@hotmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
