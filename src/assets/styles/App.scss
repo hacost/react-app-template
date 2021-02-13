@@ -1,3 +1,14 @@
-body {
-    background-color: #00d9fa;
+.container{
+    display: grid;
+    grid-template: 100px 1fr 100px / 200px 1fr;
+    height: 97vh; 
+    grid-template-areas: "header header"
+                         "aside content"
+                         "footer footer";
+	gap: 10px;
+}
+.item{
+    /* background:lightblue; */
+    padding: 10px;
+    border: 1px solid #0099b6;
 }
