@@ -16,3 +16,6 @@ Provide a template for developing [React](https://reactjs.org/) based applicatio
 * Run `npm i` to install the dependencies
 * Run `npm run build` to build the project
 * Run `npm run dev` to build the project, start watching files and run the local server
+
+## Preview
+![alt text](https://github.com/hacost/react-app-template/blob/main/src/assets/static/preview.png?raw=true)
